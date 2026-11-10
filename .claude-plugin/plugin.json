@@ -1,0 +1,6 @@
+{
+  "name": "full-history",
+  "version": "0.1.0",
+  "description": "A resumed session shows its whole conversation again: scroll up past the compaction and the earlier messages are there",
+  "types": "./types/index.d.ts"
+}

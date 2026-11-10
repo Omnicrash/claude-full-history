@@ -1,0 +1,5 @@
+{
+  "name": "claude-full-history",
+  "owner": { "name": "Omnicrash" },
+  "plugins": [{ "name": "full-history", "source": "./" }]
+}
